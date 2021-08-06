@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superaleks
 - 👀 I’m interested in everything related to test automation! 
-- 🌱 I’m currently learning docker and kubernetes!
+- 🌱 I’m currently learning how to create a microservice with Spring!
 - 💞️ I’m looking to collaborate on test automation project written in Java. 
 - 📫 You can reach me here: https://www.linkedin.com/in/lukicalek/
 
