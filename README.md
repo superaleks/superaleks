@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superaleks
 - 👀 I’m interested in everything related to test automation! 
-- 🌱 I’m currently learning how to test Containers and Helm charts!
+- 🌱 I’m currently learning how to test Blockchain applications!
 - 📫 You can reach me here: https://www.linkedin.com/in/lukicalek/
 
 <!---
