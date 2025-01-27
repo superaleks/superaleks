@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @superaleks
-- I've got 9 years of experience in Quality Assurance out of which 6 include test automation
+- I've got 10 years of experience in Quality Assurance out of which 6 include test automation
 - 🌱 I’m currently learning how to test Blockchain applications!
 - 📫 You can reach me here: https://www.linkedin.com/in/lukicalek/
 
